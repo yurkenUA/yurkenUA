@@ -13,7 +13,7 @@ Front-End Engineer with 4+ years of experience in React and Vue.js. Built and op
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,reac,vue,laravel,nextjs,css,sass,git,redux,pinia,redis,tailwind,mysql,mongodb,photoshop,figma" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,laravel,nextjs,css,sass,git,redux,pinia,redis,tailwind,mysql,mongodb,photoshop,figma,regex,aws,materialui,apple,windows,babel,bootstrap,firebase,gcp,npm,ps,postman,prisma,vite,vscode" />
   </a>
 </p>
 
