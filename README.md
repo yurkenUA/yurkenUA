@@ -1,11 +1,11 @@
 Hi! My name is Yurii Zatoka 👋
 =====================================================================================================================================
 
-<h2 align="center">Front-End & Full-Stack Engineer | JS • React • Vue • Laravel | Performance, SEO & Accessibility Specialist
+<h2 align="center">Front-End & Full-Stack Engineer | JS • React • Vue • Laravel <br> Performance, SEO & Accessibility Specialist
 </h3>
 ----------------------------------------------------------------------------------------------------------
 
-Front-End Engineer with 4+ years of experience in React and Vue.js. Built and optimized web applications that improved performance, SEO, and accessibility. Delivered a 350% increase in organic traffic, 150% improvement in conversions, 30% reduction in page weight, and consistent 95+ Lighthouse scores.
+<p align="center">Front-End Engineer with 4+ years of experience in React and Vue.js. Built and optimized web applications that improved performance, SEO, and accessibility. Delivered a 350% increase in organic traffic, 150% improvement in conversions, 30% reduction in page weight, and consistent 95+ Lighthouse scores.</p>
 
 * 🌍  I'm based in Trout Lake, WA, USA
 * 🖥️  See my portfolio at [Zatoka Dev Portfolio](http://yurkenua.github.io/)
