@@ -13,13 +13,24 @@ Hi! My name is Yurii Zatoka 👋
 
 <p align="center">
   <a href="linkedin.com/in/zatoka">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,laravel,nextjs,css,sass,tailwind,bootstrap,materialui,redux,pinia" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,laravel,nextjs,redux,pinia" />
+  </a>
+</p>
+<p align="center">
+  <a href="linkedin.com/in/zatoka">
+    <img src="https://skillicons.dev/icons?i=sass,tailwind,bootstrap,materialui,ps,figma" />
   </a>
 </p>
 
 <p align="center">
   <a href="linkedin.com/in/zatoka">
-    <img src="https://skillicons.dev/icons?i=redis,mysql,prisma,mongodb,ps,figma,git,regex,vite,webpack,babel,firebase,gcp,npm,postman,vscode,aws,vercel,apple,windows&perline=7" />
+    <img src="https://skillicons.dev/icons?i=redis,mysql,prisma,mongodb,git,regex" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="linkedin.com/in/zatoka">
+    <img src="https://skillicons.dev/icons?i=vite,webpack,babel,firebase,gcp,npm,postman,vscode,aws,vercel,apple,windows" />
   </a>
 </p>
 
