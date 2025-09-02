@@ -30,7 +30,12 @@ Hi! My name is Yurii Zatoka 👋
 
 <p align="center">
   <a href="linkedin.com/in/zatoka">
-    <img src="https://skillicons.dev/icons?i=vite,webpack,babel,firebase,gcp,npm,postman,vscode,aws,vercel,apple,windows" />
+    <img src="https://skillicons.dev/icons?i=vite,webpack,babel,firebase,gcp,aws,vercel," />
+  </a>
+</p>
+<p align="center">
+  <a href="linkedin.com/in/zatoka">
+    <img src="https://skillicons.dev/icons?i=apple,windows,postman,vscode,npm" />
   </a>
 </p>
 
