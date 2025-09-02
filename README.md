@@ -19,7 +19,7 @@ Hi! My name is Yurii Zatoka 👋
 
 <p align="center">
   <a href="linkedin.com/in/zatoka">
-    <img src="https://skillicons.dev/icons?i=redis,mysql,prisma,mongodb,ps,figma,git,regex,vite,webpack,babel,firebase,gcp,npm,postman,vscode,aws,vercel,apple,windows" />
+    <img src="https://skillicons.dev/icons?i=redis,mysql,prisma,mongodb,ps,figma,git,regex,vite,webpack,babel,firebase,gcp,npm,postman,vscode,aws,vercel,apple,windows&perline=7" />
   </a>
 </p>
 
