@@ -1,7 +1,7 @@
 Hi! My name is Yurii Zatoka 👋
 =====================================================================================================================================
 
-<p color="#787878">Front-End & Full-Stack Engineer | JS • React • Vue • Laravel | Performance, SEO & Accessibility Specialist</p>
+Front-End & Full-Stack Engineer | JS • React • Vue • Laravel | Performance, SEO & Accessibility Specialist
 ----------------------------------------------------------------------------------------------------------
 
 Front-End Engineer with 4+ years of experience in React and Vue.js. Built and optimized web applications that improved performance, SEO, and accessibility. Delivered a 350% increase in organic traffic, 150% improvement in conversions, 30% reduction in page weight, and consistent 95+ Lighthouse scores.
