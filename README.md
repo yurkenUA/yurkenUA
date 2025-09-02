@@ -9,7 +9,7 @@ Hi! My name is Yurii Zatoka 👋
 
 <h3>👨🏻‍💻 About Me</h3>
 
-* 🌍  I'm based in Trout Lake, WA, USA
+* 🌍  I'm based in Trout Lake, WA 🇺🇸
 * 🖥️  See my portfolio at [Zatoka Dev Portfolio](http://yurkenua.github.io/)
 * ✉️  You can contact me at [zatoka.dev@gmail.com](mailto:zatoka.dev@gmail.com)
 * 🚀  I'm currently working on [NCake](http://ncake.us)
