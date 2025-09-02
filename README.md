@@ -30,7 +30,7 @@ Hi! My name is Yurii Zatoka 👋
 
 <p align="center">
   <a href="linkedin.com/in/zatoka">
-    <img src="https://skillicons.dev/icons?i=vite,webpack,firebase,gcp,aws,vercel," />
+    <img src="https://skillicons.dev/icons?i=vite,webpack,firebase,gcp,aws,vercel" />
   </a>
 </p>
 <p align="center">
