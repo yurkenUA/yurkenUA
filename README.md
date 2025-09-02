@@ -5,14 +5,16 @@ Hi! My name is Yurii Zatoka 👋
 </h3>
 
 <p align="center">Front-End Engineer with 4+ years of experience in React and Vue.js. Built and optimized web applications that improved performance, SEO, and accessibility. Delivered a 350% increase in organic traffic, 150% improvement in conversions, 30% reduction in page weight, and consistent 95+ Lighthouse scores.</p>
-=====================================================================================================================================
+
+
+<h3>👨🏻‍💻 About Me</h3>
 
 * 🌍  I'm based in Trout Lake, WA, USA
 * 🖥️  See my portfolio at [Zatoka Dev Portfolio](http://yurkenua.github.io/)
 * ✉️  You can contact me at [zatoka.dev@gmail.com](mailto:zatoka.dev@gmail.com)
 * 🚀  I'm currently working on [NCake](http://ncake.us)
   
-=====================================================================================================================================
+<h3 align="center">🛠️ Skills</h3>
 
 <p align="center">
   <a href="linkedin.com/in/zatoka">
@@ -42,7 +44,6 @@ Hi! My name is Yurii Zatoka 👋
   </a>
 </p>
 
-=====================================================================================================================================
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
