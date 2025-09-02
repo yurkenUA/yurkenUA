@@ -12,8 +12,14 @@ Hi! My name is Yurii Zatoka 👋
 * 🚀  I'm currently working on [NCake](http://ncake.us)
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,laravel,nextjs,css,sass,tailwind,bootstrap,materialui,redux,pinia,git,redis,mysql,prisma,mongodb,ps,figma,regex,vite,webpack,babel,firebase,gcp,npm,postman,vscode,aws,vercel,apple,windows" />
+  <a href="linkedin.com/in/zatoka">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,laravel,nextjs,css,sass,tailwind,bootstrap,materialui,redux,pinia" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="linkedin.com/in/zatoka">
+    <img src="https://skillicons.dev/icons?i=redis,mysql,prisma,mongodb,ps,figma,git,regex,vite,webpack,babel,firebase,gcp,npm,postman,vscode,aws,vercel,apple,windows" />
   </a>
 </p>
 
