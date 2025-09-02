@@ -35,7 +35,7 @@ Hi! My name is Yurii Zatoka 👋
 </p>
 <p align="center">
   <a href="linkedin.com/in/zatoka">
-    <img src="https://skillicons.dev/icons?i=apple,windows,postman,vscode,npm" />
+    <img src="https://skillicons.dev/icons?i=apple,windows,ubuntu,postman,vscode,npm" />
   </a>
 </p>
 
