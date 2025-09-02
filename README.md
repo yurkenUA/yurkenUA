@@ -17,7 +17,7 @@ Hi! My name is Yurii Zatoka 👋
   </a>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/zatoka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zatoka" height="30" width="40" /></a>
 <a href="https://fb.com/yuriy.zatoka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="yuriy.zatoka" height="30" width="40" /></a>
